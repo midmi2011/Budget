@@ -6,6 +6,7 @@ import datetime
 API_KEY = "0OTA7Y5GEQ94B9UH"
 today = datetime.date.today()
 print(today)
+
 #Classing Bank
 class Bank:
     def __init__ (self,name,balance,history):
